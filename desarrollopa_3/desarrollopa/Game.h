@@ -1,11 +1,8 @@
 #pragma once
 #include "Teapot.h"
-#include "Cube.h"
-#include "Sphere.h"
 #include "Display.h"
-#include "Torus.h"
-#include "Cylinder.h"
 #include "Scene.h"
+#include "Emitter.h"
 
 using namespace std;
 

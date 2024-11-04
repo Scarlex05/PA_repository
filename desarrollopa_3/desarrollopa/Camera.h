@@ -8,5 +8,6 @@ public:
 	Camera() {}
 
 	void Render();
+	Solid* Clone();
 };
 
