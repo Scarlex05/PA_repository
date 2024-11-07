@@ -14,4 +14,10 @@ void Teapot::Render()
 	glRotatef(this->GetOrientation().GetZ(), 0.0, 0.0, 1.0);
 	glutSolidTeapot(this->GetSize());
 	glPopMatrix();
+	Clone();
+}
+
+Solid* Teapot::Clone()
+{
+	return new Teapot(*this);
 }

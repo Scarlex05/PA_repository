@@ -14,15 +14,17 @@ private:
 	vector<Solid*> particulas;
 	milliseconds initialMilliseconds;
 	long lastUpdatedTime;
+	float angulo;
 
 public:
 	Emitter() : Solid()
 	{
-		this->configuracion = new EmitterConfiguration();
 
+		this->configuracion = new EmitterConfiguration();
 		this->configuracion->Setparticula(new Teapot);
 		this->initialMilliseconds = duration_cast<milliseconds>(system_clock::now().time_since_epoch());
 		this->lastUpdatedTime = 0;
+		this->angulo = 0;
 	}
 	
 	void Render();
