@@ -11,7 +11,7 @@ private:
 	Solid* particula;
 
 public:
-	EmitterConfiguration() : numTeteras(0), miliSeconds(100) { }
+	EmitterConfiguration() : numTeteras(0), miliSeconds(1000) { }
 
 	 inline int GetnumTeteras() { return this->numTeteras; }
 	 void SetnumTeteras(int teterasToSet) { this->numTeteras = teterasToSet; }

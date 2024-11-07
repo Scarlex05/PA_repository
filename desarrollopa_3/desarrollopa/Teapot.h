@@ -15,5 +15,7 @@ public:
 	void SetSize(float sizeToSet) { this->size = sizeToSet; }
 	
 	void Render();
+
+	Solid* Clone();
 };
 
