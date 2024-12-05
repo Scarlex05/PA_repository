@@ -1,0 +1,97 @@
+﻿  Emitter.cpp
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Emitter.cpp")
+  
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Emitter.cpp")
+  
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Emitter.cpp")
+  
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\desarrollopa\Color.h(12,8): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Emitter.cpp")
+  
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\desarrollopa\Solid.h(18,25): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Emitter.cpp")
+  
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\desarrollopa\Solid.h(18,20): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Emitter.cpp")
+  
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\desarrollopa\Solid.h(18,15): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Emitter.cpp")
+  
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\desarrollopa\Teapot.h(12,17): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Emitter.cpp")
+  
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\desarrollopa\Emitter.cpp(28,47): warning C4244: '=': conversión de '_Rep' a 'long'; posible pérdida de datos
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\desarrollopa\Emitter.cpp(28,47): warning C4244:         with
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\desarrollopa\Emitter.cpp(28,47): warning C4244:         [
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\desarrollopa\Emitter.cpp(28,47): warning C4244:             _Rep=__int64
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\desarrollopa\Emitter.cpp(28,47): warning C4244:         ]
+  Game.cpp
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Game.cpp")
+  
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Game.cpp")
+  
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Game.cpp")
+  
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\desarrollopa\Color.h(12,8): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Game.cpp")
+  
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\desarrollopa\Solid.h(18,25): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Game.cpp")
+  
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\desarrollopa\Solid.h(18,20): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Game.cpp")
+  
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\desarrollopa\Solid.h(18,15): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Game.cpp")
+  
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\desarrollopa\Teapot.h(12,17): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Game.cpp")
+  
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\desarrollopa\Cuboid.h(15,28): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Game.cpp")
+  
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\desarrollopa\Cuboid.h(15,41): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Game.cpp")
+  
+  desarrollopa.cpp
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "desarrollopa.cpp")
+  
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "desarrollopa.cpp")
+  
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "desarrollopa.cpp")
+  
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\desarrollopa\Color.h(12,8): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "desarrollopa.cpp")
+  
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\desarrollopa\Solid.h(18,25): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "desarrollopa.cpp")
+  
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\desarrollopa\Solid.h(18,20): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "desarrollopa.cpp")
+  
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\desarrollopa\Solid.h(18,15): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "desarrollopa.cpp")
+  
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\desarrollopa\Teapot.h(12,17): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "desarrollopa.cpp")
+  
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\desarrollopa\Cuboid.h(15,28): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "desarrollopa.cpp")
+  
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\desarrollopa\Cuboid.h(15,41): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "desarrollopa.cpp")
+  
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\desarrollopa\desarrollopa.cpp(16,22): warning C4305: 'inicializando': truncamiento de 'double' a 'GLclampf'
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\desarrollopa\desarrollopa.cpp(17,24): warning C4305: 'inicializando': truncamiento de 'double' a 'GLclampf'
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\desarrollopa\desarrollopa.cpp(18,23): warning C4305: 'inicializando': truncamiento de 'double' a 'GLclampf'
+  Generando código...
+  desarrollopa.vcxproj -> C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\desarrollopa_3\x64\Debug\desarrollopa.exe
