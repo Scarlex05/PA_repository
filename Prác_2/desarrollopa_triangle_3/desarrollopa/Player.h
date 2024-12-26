@@ -11,7 +11,7 @@ private:
 	Vector3D orientation;
 	Vector3D orientationSpeed;
 	float movementSpeed;
-	float angleRotation;
+
 
 public:
 
