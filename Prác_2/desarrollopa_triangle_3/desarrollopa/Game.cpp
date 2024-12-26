@@ -1,5 +1,8 @@
 #include "Game.h"
 #include <iostream>
+#include <chrono>
+
+using namespace std::chrono;
 
 
 void Game::Init()
@@ -28,9 +31,15 @@ void Game::Render()
 
 void Game::Update()
 {
-	//cout << "[GAME] Update..." << endl;
+	milliseconds currentTime = duration_cast<milliseconds>(system_clock::now().time_since_epoch());
 
-	this->activeScene->Update();
+	if ((currentTime.count() - this->initialMilliseconds.count()) - this->lastUpdatedTime > UPDATE_PERIOD)
+	{
+		this->activeScene->Update(TIME_INCREMENT);
+		this->lastUpdateTime = currentTime.count() - this->initialMilliseconds.count();
+	}
+
+	//this->activeScene->Update();
 }
 
 void Game::ProcessKeyPressed(unsigned char key, int px, int py)

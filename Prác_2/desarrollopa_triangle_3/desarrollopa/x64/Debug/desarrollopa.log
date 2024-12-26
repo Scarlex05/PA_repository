@@ -1,33 +1,4 @@
-﻿  Game.cpp
-C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,15): warning C4305: 'initializing': truncation from 'double' to 'float'
-  (compiling source file 'Game.cpp')
-  
-C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,27): warning C4305: 'initializing': truncation from 'double' to 'float'
-  (compiling source file 'Game.cpp')
-  
-C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,38): warning C4305: 'initializing': truncation from 'double' to 'float'
-  (compiling source file 'Game.cpp')
-  
-C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\Prác_2\desarrollopa_triangle_3\desarrollopa\Cuboid.h(15,28): warning C4305: 'initializing': truncation from 'double' to 'float'
-  (compiling source file 'Game.cpp')
-  
-C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\Prác_2\desarrollopa_triangle_3\desarrollopa\Cuboid.h(15,41): warning C4305: 'initializing': truncation from 'double' to 'float'
-  (compiling source file 'Game.cpp')
-  
-C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\Prác_2\desarrollopa_triangle_3\desarrollopa\Scene.h(27,95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-  (compiling source file 'Game.cpp')
-  
-  Player.cpp
-C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,15): warning C4305: 'initializing': truncation from 'double' to 'float'
-  (compiling source file 'Player.cpp')
-  
-C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,27): warning C4305: 'initializing': truncation from 'double' to 'float'
-  (compiling source file 'Player.cpp')
-  
-C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,38): warning C4305: 'initializing': truncation from 'double' to 'float'
-  (compiling source file 'Player.cpp')
-  
-  desarrollopa.cpp
+﻿  desarrollopa.cpp
 C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,15): warning C4305: 'initializing': truncation from 'double' to 'float'
   (compiling source file 'desarrollopa.cpp')
   
@@ -46,8 +17,8 @@ C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadísti
 C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\Prác_2\desarrollopa_triangle_3\desarrollopa\Scene.h(27,95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
   (compiling source file 'desarrollopa.cpp')
   
-C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\Prác_2\desarrollopa_triangle_3\desarrollopa\desarrollopa.cpp(16,22): warning C4305: 'initializing': truncation from 'double' to 'GLclampf'
-C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\Prác_2\desarrollopa_triangle_3\desarrollopa\desarrollopa.cpp(17,24): warning C4305: 'initializing': truncation from 'double' to 'GLclampf'
-C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\Prác_2\desarrollopa_triangle_3\desarrollopa\desarrollopa.cpp(18,23): warning C4305: 'initializing': truncation from 'double' to 'GLclampf'
-  Generating Code...
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\Prác_2\desarrollopa_triangle_3\desarrollopa\desarrollopa.cpp(17,22): warning C4305: 'initializing': truncation from 'double' to 'GLclampf'
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\Prác_2\desarrollopa_triangle_3\desarrollopa\desarrollopa.cpp(18,24): warning C4305: 'initializing': truncation from 'double' to 'GLclampf'
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\Prác_2\desarrollopa_triangle_3\desarrollopa\desarrollopa.cpp(19,23): warning C4305: 'initializing': truncation from 'double' to 'GLclampf'
+  LINK : C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\Prác_2\desarrollopa_triangle_3\x64\Debug\desarrollopa.exe not found or not built by the last incremental link; performing full link
   desarrollopa.vcxproj -> C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\Prác_2\desarrollopa_triangle_3\x64\Debug\desarrollopa.exe
