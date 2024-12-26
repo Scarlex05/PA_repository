@@ -10,7 +10,7 @@ private:
 	Vector3D position;
 	Vector3D orientation;
 	Vector3D orientationSpeed;
-	float movementSpeed;
+	float movementSpeed = 0.1f;
 
 
 public:
