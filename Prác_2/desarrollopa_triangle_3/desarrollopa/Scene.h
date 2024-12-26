@@ -31,6 +31,7 @@ public:
 	inline bool GetDrawBoundary() { return this->drawBoundary; }
 	inline void SetDrawBoundary(bool drawBoundaryToSet) { this->drawBoundary = drawBoundaryToSet; }
 
+
 	void AddGameObject(Solid* gameObject);
 
 	void Init();

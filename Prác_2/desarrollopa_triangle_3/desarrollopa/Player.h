@@ -12,6 +12,7 @@ private:
 	Vector3D orientationSpeed;
 	float movementSpeed;
 
+
 public:
 
 	//Getters
