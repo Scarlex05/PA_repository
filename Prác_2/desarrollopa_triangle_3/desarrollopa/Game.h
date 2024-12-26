@@ -1,14 +1,10 @@
 #pragma once
-#include "Teapot.h"
-#include "Cube.h"
-#include "Sphere.h"
 #include "Display.h"
-#include "Torus.h"
-#include "Cylinder.h"
 #include "Scene.h"
 #include "Triangle.h"
 #include "Model.h"
 #include "ModelLoader.h"
+#include "Player.h" 
 
 using namespace std;
 
