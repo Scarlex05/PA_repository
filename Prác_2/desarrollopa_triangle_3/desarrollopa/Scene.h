@@ -3,8 +3,7 @@
 #include "Solid.h"
 #include "Camera.h"
 #include "Cuboid.h"
-#include "Text.h"
-#include "Player.h" 
+#include "Player.h"
 
 using namespace std;
 
@@ -36,7 +35,7 @@ public:
 
 
 	void AddGameObject(Solid* gameObject);
-	void AddPlayer(Player* playerToSet) { this->player = playerToSet; }; 
+	void AddPlayer(Player* playerToSet) { this->player = playerToSet; };
 
 	void Init();
 	void Render();

@@ -42,6 +42,6 @@ public:
 	inline void SetWired(const bool wiredToSet) { this->wired = wiredToSet; }
 
 	virtual void Render() = 0;
-	virtual void Update();
+	virtual void Update(const float& time); 
 };
 

@@ -12,6 +12,7 @@ private:
 	Vector3D orientationSpeed;
 	float movementSpeed;
 
+
 public:
 
 	Player() : movementSpeed(1.0f) // Velocidad predeterminada
@@ -31,8 +32,7 @@ public:
 	inline void SetOrientationSpeed(Vector3D orientationSpeedToSet) { this->orientationSpeed = orientationSpeedToSet; }
 	inline void SetModel(Model* modelToSet) { this->playerObj = modelToSet; }
 
-	void Init();
-	void Render();
+	void Init(); 
 	void Update();
 	void ProcessKeyPressed(unsigned char key, int px, int py); 
 };

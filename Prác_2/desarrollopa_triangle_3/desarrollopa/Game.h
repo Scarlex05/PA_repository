@@ -5,13 +5,20 @@
 #include "Model.h"
 #include "ModelLoader.h"
 #include "Player.h" 
-#include "Vector3D.h"
+#include <chrono>
 
 using namespace std;
+using namespace std::chrono;
 
 class Game
 {
 private:
+
+	const double TIME_INCREMENT = 0.4; //ms tiempo en el juego 
+	const long UPDATE_PERIOD = 10; //ms tiempo en el mundo real 
+
+	milliseconds initialMilliseconds;
+	long lastUpdatedTime;
 
 	vector<Scene*> scenes;
 	Scene* activeScene;
@@ -19,7 +26,7 @@ private:
 
 public:
 
-	Game():activeScene(nullptr) {}
+	Game() : activeScene(nullptr), initialMilliseconds(duration_cast<milliseconds>(system_clock::now().time_since_epoch())), lastUpdatedTime(0) { }
 
 	void Init();
 	void Render();

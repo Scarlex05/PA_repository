@@ -17,15 +17,13 @@ void Scene::Render()
 	{
 		this->gameObjects[idx]->Render();
 	}
-	this->player->Render();
-	
 }
 
 void Scene::Update() 
 {
 	for (int idx = 0; idx < this->gameObjects.size(); idx++)
 	{
-		this->gameObjects[idx]->Update();
+		this->gameObjects[idx]->Update(); //FALTA PONER TIEMPO 
 	}
 	this->checkBoundary();
 

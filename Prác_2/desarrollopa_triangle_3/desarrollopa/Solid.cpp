@@ -1,7 +1,8 @@
 #include "Solid.h"
 
-void Solid::Update()
+void Solid::Update(const float& time)
 {
-	this->position = this->position + this->speed;
-	this->orientation = this->orientation + this->orientationSpeed;
+	//no funcionan los +
+	this->SetPosition(this->GetPosition() + this->GetSpeed() * time);
+	this->SetOrientation(this->GetOrientation() + this->GetOrientationSpeed() * time);
 }
