@@ -17,7 +17,7 @@ void Game::Init()
 	player1->Init(); 
 
 	// Añadir el jugador a la escena como objeto del juego
-	scene2->AddGameObject(player1->GetModel()); 
+	scene2->AddPlayer(player1); 
 
 	this->scenes.push_back(scene1);
 	this->scenes.push_back(scene2);
@@ -35,8 +35,8 @@ void Game::Update()
 
 	if ((currentTime.count() - this->initialMilliseconds.count()) - this->lastUpdatedTime > UPDATE_PERIOD)
 	{
-		this->activeScene->Update(TIME_INCREMENT);
-		this->lastUpdateTime = currentTime.count() - this->initialMilliseconds.count();
+		//this->activeScene->Update(TIME_INCREMENT); 
+		this->lastUpdatedTime = currentTime.count() - this->initialMilliseconds.count();
 	}
 
 	//this->activeScene->Update();
