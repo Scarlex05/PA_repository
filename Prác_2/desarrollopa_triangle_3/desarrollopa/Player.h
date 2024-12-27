@@ -12,8 +12,10 @@ private:
 	Vector3D orientationSpeed;
 	float movementSpeed;
 
-
 public:
+
+	Player() : movementSpeed(1.0f) // Velocidad predeterminada
+	{}
 
 	//Getters
 	inline Vector3D GetPosition() { return this->position; }
@@ -30,6 +32,7 @@ public:
 	inline void SetModel(Model* modelToSet) { this->playerObj = modelToSet; }
 
 	void Init();
+	void Render();
 	void Update();
 	void ProcessKeyPressed(unsigned char key, int px, int py); 
 };

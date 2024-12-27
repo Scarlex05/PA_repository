@@ -17,6 +17,8 @@ void Scene::Render()
 	{
 		this->gameObjects[idx]->Render();
 	}
+	this->player->Render();
+	
 }
 
 void Scene::Update() 

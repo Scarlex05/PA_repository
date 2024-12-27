@@ -16,13 +16,12 @@ private:
 
 public:
     // Constructor
-    Text() : red(1.f), green(1.f), blue(1.f), alpha(1.f),
-        position(0.f, 0.f, 0.f), font(GLUT_BITMAP_8_BY_13), text("") {}
+    Text() : red(1.f), green(0.f), blue(0.f), alpha(1.f),
+        position(5.f, 4.f, 0.f), font(GLUT_BITMAP_8_BY_13), text("") {}
 
-    // Setters
+    // Funciones para establecer atributos
     inline void SetColor(float r, float g, float b, float a) { red = r; green = g; blue = b; alpha = a; };
     inline void SetPosition(Vector3D coordsToSet) { this->position = coordsToSet; }
-    inline void SetFont(void* fontType){ font = fontType; }
     inline void SetText(const std::string& textToRender) { text = textToRender; } 
 
     inline std::string GetText() { return this->text; }

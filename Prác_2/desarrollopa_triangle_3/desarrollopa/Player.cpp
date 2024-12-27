@@ -19,6 +19,14 @@ void Player::Init()
 	this->SetModel(tank); 
 }
 
+void Player::Render()
+{
+    glPushMatrix();
+    glTranslatef(this->GetPosition().GetX(), this->GetPosition().GetY(), this->GetPosition().GetZ());
+    glRotatef(this->GetOrientation().GetX(), 1.0, 0.0, 0.0);
+    glRotatef(this->GetOrientation().GetY(), 0.0, 1.0, 0.0);
+    glRotatef(this->GetOrientation().GetZ(), 0.0, 0.0, 1.0);
+}
 
 void Player::Update() 
 {

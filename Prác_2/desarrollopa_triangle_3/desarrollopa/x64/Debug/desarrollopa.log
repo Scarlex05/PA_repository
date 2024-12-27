@@ -1,258 +1,76 @@
-﻿  Camera.cpp
-  Color.cpp
-  Cube.cpp
-  Cuboid.cpp
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Camera.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Camera.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Camera.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Color.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Color.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Color.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Cube.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Cube.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Cube.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Cuboid.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Cuboid.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Cuboid.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Cuboid.h(15,28): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Cuboid.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Cuboid.h(15,41): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Cuboid.cpp")
-  
-  Cylinder.cpp
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Cylinder.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Cylinder.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Cylinder.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Cylinder.h(14,57): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Cylinder.cpp")
-  
-  desarrollopa.cpp
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "desarrollopa.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "desarrollopa.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "desarrollopa.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Cuboid.h(15,28): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "desarrollopa.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Cuboid.h(15,41): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "desarrollopa.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Scene.h(27,95): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-  (compilando archivo de origen "desarrollopa.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\desarrollopa.cpp(16,22): warning C4305: 'inicializando': truncamiento de 'double' a 'GLclampf'
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\desarrollopa.cpp(17,24): warning C4305: 'inicializando': truncamiento de 'double' a 'GLclampf'
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\desarrollopa.cpp(18,23): warning C4305: 'inicializando': truncamiento de 'double' a 'GLclampf'
-  Display.cpp
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Display.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Display.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Display.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Cuboid.h(15,28): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Display.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Cuboid.h(15,41): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Display.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Display.cpp(22,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Display.cpp(25,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Display.cpp(26,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Display.cpp(27,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Display.cpp(28,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Display.cpp(34,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Display.cpp(37,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Display.cpp(45,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Display.cpp(46,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Display.cpp(50,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Display.cpp(53,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Display.cpp(54,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Display.cpp(60,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Display.cpp(63,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Display.cpp(70,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Display.cpp(81,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Display.cpp(82,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Display.cpp(83,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Display.cpp(84,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Display.cpp(99,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Display.cpp(100,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Display.cpp(111,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-  Game.cpp
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+﻿  Game.cpp
+C:\Users\anits\Downloads\PA_pruebas\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
   (compilando archivo de origen "Game.cpp")
   
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\anits\Downloads\PA_pruebas\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
   (compilando archivo de origen "Game.cpp")
   
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\anits\Downloads\PA_pruebas\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
   (compilando archivo de origen "Game.cpp")
   
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Cuboid.h(15,28): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\anits\Downloads\PA_pruebas\Prác_2\desarrollopa_triangle_3\desarrollopa\Cuboid.h(15,28): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
   (compilando archivo de origen "Game.cpp")
   
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Cuboid.h(15,41): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\anits\Downloads\PA_pruebas\Prác_2\desarrollopa_triangle_3\desarrollopa\Cuboid.h(15,41): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
   (compilando archivo de origen "Game.cpp")
   
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Scene.h(27,95): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\anits\Downloads\PA_pruebas\Prác_2\desarrollopa_triangle_3\desarrollopa\Scene.h(30,95): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
   (compilando archivo de origen "Game.cpp")
   
-  Model.cpp
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Model.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Model.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Model.cpp")
-  
-  ModelLoader.cpp
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "ModelLoader.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "ModelLoader.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "ModelLoader.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\ModelLoader.cpp(100,14): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\ModelLoader.cpp(99,14): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\ModelLoader.cpp(98,14): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
   Player.cpp
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\anits\Downloads\PA_pruebas\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
   (compilando archivo de origen "Player.cpp")
   
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\anits\Downloads\PA_pruebas\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
   (compilando archivo de origen "Player.cpp")
   
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\anits\Downloads\PA_pruebas\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
   (compilando archivo de origen "Player.cpp")
   
   Scene.cpp
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\anits\Downloads\PA_pruebas\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
   (compilando archivo de origen "Scene.cpp")
   
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\anits\Downloads\PA_pruebas\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
   (compilando archivo de origen "Scene.cpp")
   
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\anits\Downloads\PA_pruebas\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
   (compilando archivo de origen "Scene.cpp")
   
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Cuboid.h(15,28): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\anits\Downloads\PA_pruebas\Prác_2\desarrollopa_triangle_3\desarrollopa\Cuboid.h(15,28): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
   (compilando archivo de origen "Scene.cpp")
   
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Cuboid.h(15,41): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\anits\Downloads\PA_pruebas\Prác_2\desarrollopa_triangle_3\desarrollopa\Cuboid.h(15,41): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
   (compilando archivo de origen "Scene.cpp")
   
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Scene.h(27,95): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\anits\Downloads\PA_pruebas\Prác_2\desarrollopa_triangle_3\desarrollopa\Scene.h(30,95): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
   (compilando archivo de origen "Scene.cpp")
   
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Scene.cpp(90,20): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Scene.cpp(98,17): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Scene.cpp(105,18): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Scene.cpp(113,19): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-  Solid.cpp
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Solid.cpp")
+C:\Users\anits\Downloads\PA_pruebas\Prác_2\desarrollopa_triangle_3\desarrollopa\Scene.cpp(92,20): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\anits\Downloads\PA_pruebas\Prác_2\desarrollopa_triangle_3\desarrollopa\Scene.cpp(100,17): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\anits\Downloads\PA_pruebas\Prác_2\desarrollopa_triangle_3\desarrollopa\Scene.cpp(107,18): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\anits\Downloads\PA_pruebas\Prác_2\desarrollopa_triangle_3\desarrollopa\Scene.cpp(115,19): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  desarrollopa.cpp
+C:\Users\anits\Downloads\PA_pruebas\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "desarrollopa.cpp")
   
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Solid.cpp")
+C:\Users\anits\Downloads\PA_pruebas\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "desarrollopa.cpp")
   
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Solid.cpp")
+C:\Users\anits\Downloads\PA_pruebas\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "desarrollopa.cpp")
   
-  Sphere.cpp
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Sphere.cpp")
+C:\Users\anits\Downloads\PA_pruebas\Prác_2\desarrollopa_triangle_3\desarrollopa\Cuboid.h(15,28): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "desarrollopa.cpp")
   
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Sphere.cpp")
+C:\Users\anits\Downloads\PA_pruebas\Prác_2\desarrollopa_triangle_3\desarrollopa\Cuboid.h(15,41): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "desarrollopa.cpp")
   
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Sphere.cpp")
+C:\Users\anits\Downloads\PA_pruebas\Prác_2\desarrollopa_triangle_3\desarrollopa\Scene.h(30,95): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "desarrollopa.cpp")
   
-  Teapot.cpp
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Teapot.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Teapot.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Teapot.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Teapot.h(12,17): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Teapot.cpp")
-  
-  Text.cpp
-  Torus.cpp
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Torus.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Torus.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Torus.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Torus.h(14,24): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Torus.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Torus.h(14,45): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Torus.cpp")
-  
-  Triangle.cpp
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Triangle.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Triangle.cpp")
-  
-C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "Triangle.cpp")
-  
-  Vector3D.cpp
+C:\Users\anits\Downloads\PA_pruebas\Prác_2\desarrollopa_triangle_3\desarrollopa\desarrollopa.cpp(16,22): warning C4305: 'inicializando': truncamiento de 'double' a 'GLclampf'
+C:\Users\anits\Downloads\PA_pruebas\Prác_2\desarrollopa_triangle_3\desarrollopa\desarrollopa.cpp(17,24): warning C4305: 'inicializando': truncamiento de 'double' a 'GLclampf'
+C:\Users\anits\Downloads\PA_pruebas\Prác_2\desarrollopa_triangle_3\desarrollopa\desarrollopa.cpp(18,23): warning C4305: 'inicializando': truncamiento de 'double' a 'GLclampf'
   Generando código...
-  LINK : no se encontró C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\x64\Debug\desarrollopa.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
-  desarrollopa.vcxproj -> C:\Users\anits\Downloads\PA_repository-Martha\Prác_2\desarrollopa_triangle_3\x64\Debug\desarrollopa.exe
+  desarrollopa.vcxproj -> C:\Users\anits\Downloads\PA_pruebas\Prác_2\desarrollopa_triangle_3\x64\Debug\desarrollopa.exe

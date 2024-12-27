@@ -5,20 +5,20 @@
 void Game::Init()
 {
 	cout << "[GAME] Init..." << endl;
-	Scene* scene1 = new Scene(); //Menú de juego
-	Scene* scene2 = new Scene(); //Juego
-	Scene* scene3 = new Scene(); //Pantalla de perder/ganar
+	Scene* scene0 = new Scene(); //Menú de juego
+	Scene* scene1 = new Scene(); //Juego
+	Scene* scene2 = new Scene(); //Pantalla de perder/ganar
 
 	// Crear el jugador
 	Player* player1 = new Player(); 
-	player1->Init(); 
+	player1->Init();
 
 	// Añadir el jugador a la escena como objeto del juego
-	scene2->AddGameObject(player1->GetModel()); 
+	scene2->AddPlayer(player1);
 
+	this->scenes.push_back(scene0);
 	this->scenes.push_back(scene1);
-	this->scenes.push_back(scene2);
-	this->activeScene = scene2; //Se irá cambiando una vez el menú esté realizado
+	this->activeScene = scene1; //Se irá cambiando una vez el menú esté realizado
 }
 
 void Game::Render()

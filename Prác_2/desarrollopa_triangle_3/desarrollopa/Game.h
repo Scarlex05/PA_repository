@@ -5,6 +5,7 @@
 #include "Model.h"
 #include "ModelLoader.h"
 #include "Player.h" 
+#include "Vector3D.h"
 
 using namespace std;
 
@@ -14,6 +15,7 @@ private:
 
 	vector<Scene*> scenes;
 	Scene* activeScene;
+
 
 public:
 

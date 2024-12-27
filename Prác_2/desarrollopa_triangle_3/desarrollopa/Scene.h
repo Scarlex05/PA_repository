@@ -3,6 +3,8 @@
 #include "Solid.h"
 #include "Camera.h"
 #include "Cuboid.h"
+#include "Text.h"
+#include "Player.h" 
 
 using namespace std;
 
@@ -10,6 +12,7 @@ class Scene
 {
 private:
 	vector<Solid*> gameObjects;
+	Player* player;
 	Camera camera;
 	Vector3D boundary;
 	bool drawBoundary;
@@ -33,6 +36,7 @@ public:
 
 
 	void AddGameObject(Solid* gameObject);
+	void AddPlayer(Player* playerToSet) { this->player = playerToSet; }; 
 
 	void Init();
 	void Render();
