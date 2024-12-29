@@ -13,15 +13,16 @@ void Game::Init()
 	Scene* scene3 = new Scene(); //Pantalla de perder/ganar
 
 	// Crear el jugador
-	Player* player1 = new Player(); 
-	player1->Init(); 
+	this->tank = new Player();
+	this->tank->Init();
 
 	// Añadir el jugador a la escena como objeto del juego
-	scene2->AddPlayer(player1); 
+	scene2->AddPlayer(this->tank);
 
 	this->scenes.push_back(scene1);
 	this->scenes.push_back(scene2);
-	this->activeScene = scene2; //Se irá cambiando una vez el menú esté realizado
+	this->scenes.push_back(scene3);
+	this->activeScene = scene2; // Se cambiará al menú cuando esté implementado
 }
 
 void Game::Render()
@@ -39,18 +40,18 @@ void Game::Update()
 		this->lastUpdatedTime = currentTime.count() - this->initialMilliseconds.count();
 	}
 
-	//this->activeScene->Update();
+	//actualizamos el estado de la escena que esté en uso
+	this->activeScene->Update();
 }
 
 void Game::ProcessKeyPressed(unsigned char key, int px, int py)
 {
 	cout << "tecla pulsada: " << key << endl;
 
-	/*int index = (key - '0') - 1;
-	if (index < this->scenes.size())
-	{
-		this->activeScene = this->scenes[index];
-	}*/
+	// Pasar el control al tanque
+	if (this->tank) {
+		this->tank->ProcessKeyPressed(key, px, py);
+	}
 }
 
 void Game::ProcessMouseClicked(int button, int state, int x, int y)
