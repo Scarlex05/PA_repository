@@ -23,7 +23,7 @@ void Scene::Update()
 {
 	for (int idx = 0; idx < this->gameObjects.size(); idx++)
 	{
-		this->gameObjects[idx]->Update(0.10f); //FALTA PONER TIEMPO 
+		this->gameObjects[idx]->Update(0.1f); //FALTA PONER TIEMPO 
 	}
 	this->checkBoundary();
 
