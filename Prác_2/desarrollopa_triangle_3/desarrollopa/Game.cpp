@@ -13,10 +13,12 @@ void Game::Init()
 	Scene* scene3 = new Scene(); //Pantalla de perder/ganar
 
 	// Crear el jugador
+
 	Player* player1 = new Player();
 
 	// Añadir el jugador a la escena como objeto del juego
 	scene2->AddPlayer(player1);
+
 
 	this->scenes.push_back(scene1);
 	this->scenes.push_back(scene2);
@@ -47,11 +49,13 @@ void Game::ProcessKeyPressed(unsigned char key, int px, int py)
 {
 	cout << "tecla pulsada: " << key << endl;
 
+
 	activeScene->GetPlayer()->ProcessKeyPressed(key, px, py);
 	/*// Pasar el control al tanque
 	if (this->tank) {
 		this->tank->ProcessKeyPressed(key, px, py);
 	}*/
+
 }
 
 void Game::ProcessMouseClicked(int button, int state, int x, int y)

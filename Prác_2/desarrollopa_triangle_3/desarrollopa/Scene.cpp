@@ -24,7 +24,9 @@ void Scene::Update()
 {
 	for (int idx = 0; idx < this->gameObjects.size(); idx++)
 	{
+
 		this->gameObjects[idx]->Update(0.1f);
+
 	}
 	this->checkBoundary();
 	this->player->Update(0.1f);

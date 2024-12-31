@@ -2,21 +2,27 @@
 #include "Vector3D.h" 
 #include "Model.h" 
 #include "ModelLoader.h"
+#include "Solid.h"
 
-class Player : public Solid
+class Player : public Solid // hereda de Solid
 {
 private:
 	Model* playerObj;
 	float movementSpeed;
 
+
 public:
+    // Constructor y Destructor
+    Player() : movementSpeed(1.0f), playerObj(nullptr) {}
+    ~Player();
+
 
 	// Constructor
 	Player() : movementSpeed(1.0f), Solid()
 	{
 		//Instanciamos un loader para leer el archivo obj
 		ModelLoader* loader = new ModelLoader();
-		//fijamos la escala para ajustar el tamaño
+		//fijamos la escala para ajustar el tamaÃ±o
 		loader->SetScale(0.5);
 		loader->LoadModel("..\\3dModels\\Tank.obj");
 		//una vez cargado el modelo, instanciamos un Model usando memoria din?mica
@@ -38,5 +44,5 @@ public:
 	void Render() override;
 	void Update(const float& time) override;
 	void ProcessKeyPressed(unsigned char key, int px, int py); 
-};
 
+};

@@ -26,13 +26,13 @@ public:
 	inline void SetY(const float& yToSet) { this->y = yToSet; }
 	inline void SetZ(const float& zToSet) { this->z = zToSet; }
 
-	Vector3D Add(Vector3D& other);
-	Vector3D operator+(Vector3D& other);
+	Vector3D Add(Vector3D other);
+	Vector3D operator+(Vector3D other);
 
 	Vector3D Product(float a);
 	Vector3D operator*(float a);
 
-	Vector3D operator-(Vector3D& other);
+	Vector3D operator-(Vector3D other);
 
 };
 
