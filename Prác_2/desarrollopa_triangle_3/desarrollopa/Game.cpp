@@ -17,7 +17,6 @@ void Game::Init()
 
 	// Añadir el jugador a la escena como objeto del juego
 	scene2->AddPlayer(player1);
-	scene2->AddGameObject(player1->GetModel());
 
 	this->scenes.push_back(scene1);
 	this->scenes.push_back(scene2);
@@ -48,6 +47,7 @@ void Game::ProcessKeyPressed(unsigned char key, int px, int py)
 {
 	cout << "tecla pulsada: " << key << endl;
 
+	activeScene->GetPlayer()->ProcessKeyPressed(key, px, py);
 	/*// Pasar el control al tanque
 	if (this->tank) {
 		this->tank->ProcessKeyPressed(key, px, py);

@@ -35,8 +35,8 @@ public:
 	
 	inline void SetModel(Model* modelToSet) { this->playerObj = modelToSet; }
 
-	void Render();
-	void Update();
+	void Render() override;
+	void Update(const float& time) override;
 	void ProcessKeyPressed(unsigned char key, int px, int py); 
 };
 

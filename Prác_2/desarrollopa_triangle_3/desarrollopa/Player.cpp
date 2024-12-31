@@ -15,9 +15,13 @@ void Player::Render()
 }
 
 
-void Player::Update() 
+void Player::Update(const float& time)
 {
-    this->playerObj->Update(0.1f); 
+    this->playerObj->SetPosition(GetPosition());
+    this->playerObj->SetOrientation(GetOrientation());
+
+    this->playerObj->Update(time); 
+
 }
 
 //movimiento del jugador (controles tanque)
@@ -25,13 +29,22 @@ void Player::ProcessKeyPressed(unsigned char key, int px, int py)
 {
     switch (key) {
     case 'w': // Mover hacia adelante según hacia donde esté mirando el jugador 
-        this->GetPosition().SetX(this->GetPosition().GetX() + movementSpeed * cos(GetOrientation().GetZ() * M_PI / 180.0f));
-        this->GetPosition().SetY(this->GetPosition().GetY() + movementSpeed * sin(GetOrientation().GetZ() * M_PI / 180.0f));
+        this->SetPosition(Vector3D (this->GetPosition().GetX() + movementSpeed * cos(GetOrientation().GetZ() * M_PI / 180.0f),
+                this->GetPosition().GetY() + movementSpeed * sin(GetOrientation().GetZ() * M_PI / 180.0f),
+                this->GetPosition().GetZ()));
+        
+        /*this->GetPosition().SetX(this->GetPosition().GetX() + movementSpeed * cos(GetOrientation().GetZ() * M_PI / 180.0f));
+        this->GetPosition().SetY(this->GetPosition().GetY() + movementSpeed * sin(GetOrientation().GetZ() * M_PI / 180.0f));*/
         break;
 
     case 's': // Mover hacia atrás según hacia donde esté mirando el jugador
-        this->GetPosition().SetX(this->GetPosition().GetX() - movementSpeed * cos(GetOrientation().GetZ() * M_PI / 180.0f));
-        this->GetPosition().SetY(this->GetPosition().GetY() - movementSpeed * sin(GetOrientation().GetZ() * M_PI / 180.0f));
+
+        this->SetPosition(Vector3D(this->GetPosition().GetX() - movementSpeed * cos(GetOrientation().GetZ() * M_PI / 180.0f),
+            this->GetPosition().GetY() - movementSpeed * sin(GetOrientation().GetZ() * M_PI / 180.0f),
+            this->GetPosition().GetZ()));
+
+        //this->GetPosition().SetX(this->GetPosition().GetX() - movementSpeed * cos(GetOrientation().GetZ() * M_PI / 180.0f));
+        //this->GetPosition().SetY(this->GetPosition().GetY() - movementSpeed * sin(GetOrientation().GetZ() * M_PI / 180.0f));
         break;
 
     case 'a': // Girar a la izquierda (rotación antihoraria)
@@ -51,6 +64,5 @@ void Player::ProcessKeyPressed(unsigned char key, int px, int py)
     default:
         break;
     }
-
-    this->Update(); 
+    std::cout << "x:" << GetPosition().GetX() << "y:" << GetPosition().GetY() << endl;
 }

@@ -17,6 +17,7 @@ void Scene::Render()
 	{
 		this->gameObjects[idx]->Render();
 	}
+	this->player->Render();
 }
 
 void Scene::Update() 
@@ -26,6 +27,7 @@ void Scene::Update()
 		this->gameObjects[idx]->Update(0.1f);
 	}
 	this->checkBoundary();
+	this->player->Update(0.1f);
 
 }
 

@@ -31,6 +31,7 @@ public:
 
 	inline Vector3D GetBoundary() { return this->boundary; }
 	inline bool GetDrawBoundary() { return this->drawBoundary; }
+	inline Player* GetPlayer() { return this->player; }
 	inline void SetDrawBoundary(bool drawBoundaryToSet) { this->drawBoundary = drawBoundaryToSet; }
 
 
