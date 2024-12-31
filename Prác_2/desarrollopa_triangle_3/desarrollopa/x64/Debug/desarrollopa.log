@@ -1,1 +1,15 @@
-﻿  desarrollopa.vcxproj -> C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\Prác_2\desarrollopa_triangle_3\x64\Debug\desarrollopa.exe
+﻿  Player.cpp
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Player.cpp')
+  
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Player.cpp')
+  
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Player.cpp')
+  
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\Prác_2\desarrollopa_triangle_3\desarrollopa\Player.cpp(64,39): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\Prác_2\desarrollopa_triangle_3\desarrollopa\Player.cpp(65,39): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\Prác_2\desarrollopa_triangle_3\desarrollopa\Player.cpp(69,39): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\Prác_2\desarrollopa_triangle_3\desarrollopa\Player.cpp(70,39): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  desarrollopa.vcxproj -> C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\desk estadística\Practica_Estadistica\PA_repository\Prác_2\desarrollopa_triangle_3\x64\Debug\desarrollopa.exe

@@ -8,6 +8,13 @@
 #define M_PI 3.14159265358979323846
 #endif
 
+Player::~Player() {  //destructor
+    if (playerObj) {
+        delete playerObj; // Libera memoria
+        playerObj = nullptr;
+    }
+}
+
 
 void Player::Init() 
 {
@@ -19,54 +26,60 @@ void Player::Init()
 	loader->LoadModel("..\\3dModels\\Tank.obj");
 
 	//una vez cargado el modelo, instanciamos un Model usando memoria din?mica
-	Model* tank = new Model();
+	Model* playerObj = new Model();
 
 	//Asignamos el modelo del loader a lo apuntado por el puntero llamado bolt
-	*tank = loader->GetModel();
+	*playerObj = loader->GetModel();
 
     // Ajustamos posición, orientación y color del modelo
-	tank->SetPosition(Vector3D(4, 4, 0));
-	tank->SetOrientation(Vector3D(0, 0, 180)); //180 para que mire hacia arriba
-	tank->SetColor(Color(0.0, 1.0, 0.0, 1.0));
+    playerObj->SetPosition(Vector3D(4, 4, 0));
+    playerObj->SetOrientation(Vector3D(0, 0, 180)); //180 para que mire hacia arriba
+    playerObj->SetColor(Color(0.0, 1.0, 0.0, 1.0));
 
-	this->SetModel(tank); 
+	this->SetModel(playerObj);
 
     // Liberamos el loader para evitar fugas de memoria
     delete loader;
 }
 
+void Player::Render() {
+    if (playerObj) {
+        playerObj->Render();
+    }
+}
 
-void Player::Update() 
-{
-    this->playerObj->SetPosition(this->position);
-    this->playerObj->SetOrientation(this->orientation);
+void Player::Update(const float& time) {
+    Solid::Update(time); // Llama al Update de Solid
+    if (playerObj) {
+        playerObj->SetPosition(position);
+        playerObj->SetOrientation(orientation);
+    }
 }
 
 //movimiento del jugador (controles tanque)
-void Player::ProcessKeyPressed(unsigned char key, int px, int py)
-{
+void Player::ProcessKeyPressed(unsigned char key, int px, int py) {
     switch (key) {
-    case 'w': // Mover hacia adelante según hacia donde esté mirando el jugador 
-        this->position.SetX(this->position.GetX() + movementSpeed * cos(orientation.GetZ() * M_PI / 180.0f));
-        this->position.SetY(this->position.GetY() + movementSpeed * sin(orientation.GetZ() * M_PI / 180.0f));
+    case 'w': // Mover hacia adelante
+        position.SetX(position.GetX() + movementSpeed * cos(orientation.GetZ() * M_PI / 180.0f));
+        position.SetY(position.GetY() + movementSpeed * sin(orientation.GetZ() * M_PI / 180.0f));
         break;
 
-    case 's': // Mover hacia atrás según hacia donde esté mirando el jugador
-        this->position.SetX(this->position.GetX() - movementSpeed * cos(orientation.GetZ() * M_PI / 180.0f));
-        this->position.SetY(this->position.GetY() - movementSpeed * sin(orientation.GetZ() * M_PI / 180.0f));
+    case 's': // Mover hacia atrás
+        position.SetX(position.GetX() - movementSpeed * cos(orientation.GetZ() * M_PI / 180.0f));
+        position.SetY(position.GetY() - movementSpeed * sin(orientation.GetZ() * M_PI / 180.0f));
         break;
 
-    case 'a': // Girar a la izquierda (rotación antihoraria)
-        this->orientation.SetZ(this->orientation.GetZ() - 5.0f);
-        if (this->orientation.GetZ() < 0) {
-            this->orientation.SetZ(this->orientation.GetZ() + 360.0f);
+    case 'a': // Girar a la izquierda
+        orientation.SetZ(orientation.GetZ() - 5.0f);
+        if (orientation.GetZ() < 0) {
+            orientation.SetZ(orientation.GetZ() + 360.0f);
         }
         break;
 
-    case 'd': // Girar a la derecha (rotación horaria)
-        this->orientation.SetZ(this->orientation.GetZ() + 5.0f);
-        if (this->orientation.GetZ() >= 360.0f) {
-            this->orientation.SetZ(this->orientation.GetZ() - 360.0f);
+    case 'd': // Girar a la derecha
+        orientation.SetZ(orientation.GetZ() + 5.0f);
+        if (orientation.GetZ() >= 360.0f) {
+            orientation.SetZ(orientation.GetZ() - 360.0f);
         }
         break;
 
@@ -74,5 +87,4 @@ void Player::ProcessKeyPressed(unsigned char key, int px, int py)
         break;
     }
 
-    this->Update(); 
 }

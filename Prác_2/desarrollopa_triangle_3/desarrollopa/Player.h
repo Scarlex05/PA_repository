@@ -2,38 +2,39 @@
 #include "Vector3D.h" 
 #include "Model.h" 
 #include "ModelLoader.h"
+#include "Solid.h"
 
-class Player
+class Player : public Solid // hereda de Solid
 {
 private:
-	Model* playerObj;
-	Vector3D position;
-	Vector3D orientation;
-	Vector3D orientationSpeed;
-	float movementSpeed;
-
+    Model* playerObj;              
+    Vector3D position;             
+    Vector3D orientation;          
+    Vector3D orientationSpeed;    
+    float movementSpeed;           
 
 public:
+    // Constructor y Destructor
+    Player() : movementSpeed(1.0f), playerObj(nullptr) {}
+    ~Player();
 
-	Player() : movementSpeed(1.0f) // Velocidad predeterminada
-	{}
+    // Getters
+    inline Vector3D GetPosition() { return this->position; }
+    inline Vector3D GetOrientation() { return this->orientation; }
+    inline Vector3D GetOrientationSpeed() { return this->orientationSpeed; }
+    inline float GetSpeed() { return this->movementSpeed; }
+    inline Model* GetModel() { return this->playerObj; }
 
-	//Getters
-	inline Vector3D GetPosition() { return this->position; }
-	inline float GetSpeed() { return this->movementSpeed; }
-	inline Vector3D GetOrientation() { return this->orientation; }
-	inline Vector3D GetOrientationSpeed() { return this->orientationSpeed; }
-	inline Model* GetModel() { return this->playerObj; }
+    // Setters
+    inline void SetPosition(Vector3D coordsToSet) { this->position = coordsToSet; }
+    inline void SetOrientation(Vector3D orientationToSet) { this->orientation = orientationToSet; }
+    inline void SetOrientationSpeed(Vector3D orientationSpeedToSet) { this->orientationSpeed = orientationSpeedToSet; }
+    inline void SetSpeed(const float speedToSet) { this->movementSpeed = speedToSet; }
+    inline void SetModel(Model* modelToSet) { this->playerObj = modelToSet; }
 
-	//Setters
-	inline void SetPosition(Vector3D coordsToSet) { this->position = coordsToSet; }
-	inline void SetSpeed(const float speedToSet) { this->movementSpeed = speedToSet; }
-	inline void SetOrientation(Vector3D orientationToSet) { this->orientation = orientationToSet; }
-	inline void SetOrientationSpeed(Vector3D orientationSpeedToSet) { this->orientationSpeed = orientationSpeedToSet; }
-	inline void SetModel(Model* modelToSet) { this->playerObj = modelToSet; }
-
-	void Init(); 
-	void Update();
-	void ProcessKeyPressed(unsigned char key, int px, int py); 
+    // Métodos principales
+    void Init();                               
+    void Render() override;                   
+    void Update(const float& time) override;  
+    void ProcessKeyPressed(unsigned char key, int px, int py); 
 };
-
