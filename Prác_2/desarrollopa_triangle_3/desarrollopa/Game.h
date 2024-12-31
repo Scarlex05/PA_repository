@@ -23,7 +23,6 @@ private:
 	vector<Scene*> scenes;
 	Scene* activeScene;
 
-
 public:
 
 	Game() : activeScene(nullptr), initialMilliseconds(duration_cast<milliseconds>(system_clock::now().time_since_epoch())), lastUpdatedTime(0) { }

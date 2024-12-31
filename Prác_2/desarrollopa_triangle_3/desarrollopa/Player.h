@@ -3,36 +3,39 @@
 #include "Model.h" 
 #include "ModelLoader.h"
 
-class Player
+class Player : public Solid
 {
 private:
 	Model* playerObj;
-	Vector3D position;
-	Vector3D orientation;
-	Vector3D orientationSpeed;
 	float movementSpeed;
-
 
 public:
 
-	Player() : movementSpeed(1.0f) // Velocidad predeterminada
-	{}
+	// Constructor
+	Player() : movementSpeed(1.0f), Solid()
+	{
+		//Instanciamos un loader para leer el archivo obj
+		ModelLoader* loader = new ModelLoader();
+		//fijamos la escala para ajustar el tamaño
+		loader->SetScale(0.5);
+		loader->LoadModel("..\\3dModels\\Tank.obj");
+		//una vez cargado el modelo, instanciamos un Model usando memoria din?mica
+		Model* tank = new Model();
+		//Asignamos el modelo del loader a lo apuntado por el puntero llamado bolt
+		*tank = loader->GetModel();
+		//lo colocamos m?s cerca del centro de la escena
+		tank->SetPosition(Vector3D(4, 4, 0));
+		tank->SetOrientation(Vector3D(0, 0, 180)); //180 para que mire hacia arriba
+		tank->SetColor(Color(0.0, 1.0, 0.0, 1.0));
 
-	//Getters
-	inline Vector3D GetPosition() { return this->position; }
-	inline float GetSpeed() { return this->movementSpeed; }
-	inline Vector3D GetOrientation() { return this->orientation; }
-	inline Vector3D GetOrientationSpeed() { return this->orientationSpeed; }
-	inline Model* GetModel() { return this->playerObj; }
+		this->SetModel(tank);
+	}
 
-	//Setters
-	inline void SetPosition(Vector3D coordsToSet) { this->position = coordsToSet; }
-	inline void SetSpeed(const float speedToSet) { this->movementSpeed = speedToSet; }
-	inline void SetOrientation(Vector3D orientationToSet) { this->orientation = orientationToSet; }
-	inline void SetOrientationSpeed(Vector3D orientationSpeedToSet) { this->orientationSpeed = orientationSpeedToSet; }
+	inline Model* GetModel() { return this->playerObj; } 
+	
 	inline void SetModel(Model* modelToSet) { this->playerObj = modelToSet; }
 
-	void Init(); 
+	void Render();
 	void Update();
 	void ProcessKeyPressed(unsigned char key, int px, int py); 
 };
