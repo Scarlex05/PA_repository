@@ -2,44 +2,17 @@
 
 //variable que usaremos para convertir de grados a radianes
 //ya que las funciones del movimiento cos y sin esperan radianes
-//y las orientaciones del tanque están definidas en grados
+//y las orientaciones del tanque estÃ¡n definidas en grados
 //la definimos porque no nos dejaba utilizar la biblioteca de cmath
 #ifndef M_PI
 #define M_PI 3.14159265358979323846
 #endif
 
-Player::~Player() {  //destructor
-    if (playerObj) {
-        delete playerObj; // Libera memoria
-        playerObj = nullptr;
-    }
-}
 
 
-void Player::Init() 
+void Player::Render()
 {
-	//Instanciamos un loader para leer el archivo obj
-	ModelLoader* loader = new ModelLoader();
-
-	//fijamos la escala para ajustar el tamaño
-	loader->SetScale(0.5);
-	loader->LoadModel("..\\3dModels\\Tank.obj");
-
-	//una vez cargado el modelo, instanciamos un Model usando memoria din?mica
-	Model* playerObj = new Model();
-
-	//Asignamos el modelo del loader a lo apuntado por el puntero llamado bolt
-	*playerObj = loader->GetModel();
-
-    // Ajustamos posición, orientación y color del modelo
-    playerObj->SetPosition(Vector3D(4, 4, 0));
-    playerObj->SetOrientation(Vector3D(0, 0, 180)); //180 para que mire hacia arriba
-    playerObj->SetColor(Color(0.0, 1.0, 0.0, 1.0));
-
-	this->SetModel(playerObj);
-
-    // Liberamos el loader para evitar fugas de memoria
-    delete loader;
+    this->playerObj->Render();  
 }
 
 void Player::Render() {
@@ -48,43 +21,56 @@ void Player::Render() {
     }
 }
 
-void Player::Update(const float& time) {
-    Solid::Update(time); // Llama al Update de Solid
-    if (playerObj) {
-        playerObj->SetPosition(position);
-        playerObj->SetOrientation(orientation);
-    }
+
+void Player::Update(const float& time)
+{
+    this->playerObj->SetPosition(GetPosition());
+    this->playerObj->SetOrientation(GetOrientation());
+
+    this->playerObj->Update(time); 
+
 }
 
 //movimiento del jugador (controles tanque)
-void Player::ProcessKeyPressed(unsigned char key, int px, int py) {
+void Player::ProcessKeyPressed(unsigned char key, int px, int py)
+{
     switch (key) {
-    case 'w': // Mover hacia adelante
-        position.SetX(position.GetX() + movementSpeed * cos(orientation.GetZ() * M_PI / 180.0f));
-        position.SetY(position.GetY() + movementSpeed * sin(orientation.GetZ() * M_PI / 180.0f));
+    case 'w': // Mover hacia adelante segÃºn hacia donde estÃ© mirando el jugador 
+        this->SetPosition(Vector3D (this->GetPosition().GetX() + movementSpeed * cos(GetOrientation().GetZ() * M_PI / 180.0f),
+                this->GetPosition().GetY() + movementSpeed * sin(GetOrientation().GetZ() * M_PI / 180.0f),
+                this->GetPosition().GetZ()));
+        
+        /*this->GetPosition().SetX(this->GetPosition().GetX() + movementSpeed * cos(GetOrientation().GetZ() * M_PI / 180.0f));
+        this->GetPosition().SetY(this->GetPosition().GetY() + movementSpeed * sin(GetOrientation().GetZ() * M_PI / 180.0f));*/
         break;
 
-    case 's': // Mover hacia atrás
-        position.SetX(position.GetX() - movementSpeed * cos(orientation.GetZ() * M_PI / 180.0f));
-        position.SetY(position.GetY() - movementSpeed * sin(orientation.GetZ() * M_PI / 180.0f));
+    case 's': // Mover hacia atrÃ¡s segÃºn hacia donde estÃ© mirando el jugador
+
+        this->SetPosition(Vector3D(this->GetPosition().GetX() - movementSpeed * cos(GetOrientation().GetZ() * M_PI / 180.0f),
+            this->GetPosition().GetY() - movementSpeed * sin(GetOrientation().GetZ() * M_PI / 180.0f),
+            this->GetPosition().GetZ()));
+
+        //this->GetPosition().SetX(this->GetPosition().GetX() - movementSpeed * cos(GetOrientation().GetZ() * M_PI / 180.0f));
+        //this->GetPosition().SetY(this->GetPosition().GetY() - movementSpeed * sin(GetOrientation().GetZ() * M_PI / 180.0f));
         break;
 
-    case 'a': // Girar a la izquierda
-        orientation.SetZ(orientation.GetZ() - 5.0f);
-        if (orientation.GetZ() < 0) {
-            orientation.SetZ(orientation.GetZ() + 360.0f);
+    case 'a': // Girar a la izquierda (rotaciÃ³n antihoraria)
+        this->GetOrientation().SetZ(this->GetOrientation().GetZ() - 5.0f);
+        if (this->GetOrientation().GetZ() < 0) {
+            this->GetOrientation().SetZ(this->GetOrientation().GetZ() + 360.0f);
         }
         break;
 
-    case 'd': // Girar a la derecha
-        orientation.SetZ(orientation.GetZ() + 5.0f);
-        if (orientation.GetZ() >= 360.0f) {
-            orientation.SetZ(orientation.GetZ() - 360.0f);
+    case 'd': // Girar a la derecha (rotaciÃ³n horaria)
+        this->GetOrientation().SetZ(this->GetOrientation().GetZ() + 5.0f);
+        if (this->GetOrientation().GetZ() >= 360.0f) {
+            this->GetOrientation().SetZ(this->GetOrientation().GetZ() - 360.0f);
         }
         break;
 
     default:
         break;
     }
+    std::cout << "x:" << GetPosition().GetX() << "y:" << GetPosition().GetY() << endl;
 
 }

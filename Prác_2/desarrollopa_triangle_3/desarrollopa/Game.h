@@ -23,7 +23,6 @@ private:
 	vector<Scene*> scenes;
 	Scene* activeScene;
 
-	Player* tank; // Jugador 
 
 public:
 
