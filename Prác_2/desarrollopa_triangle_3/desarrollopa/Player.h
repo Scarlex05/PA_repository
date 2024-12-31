@@ -18,18 +18,8 @@ public:
     Player() : movementSpeed(1.0f), playerObj(nullptr) {}
     ~Player();
 
-    // Getters
-    inline Vector3D GetPosition() { return this->position; }
-    inline Vector3D GetOrientation() { return this->orientation; }
-    inline Vector3D GetOrientationSpeed() { return this->orientationSpeed; }
-    inline float GetSpeed() { return this->movementSpeed; }
     inline Model* GetModel() { return this->playerObj; }
 
-    // Setters
-    inline void SetPosition(Vector3D coordsToSet) { this->position = coordsToSet; }
-    inline void SetOrientation(Vector3D orientationToSet) { this->orientation = orientationToSet; }
-    inline void SetOrientationSpeed(Vector3D orientationSpeedToSet) { this->orientationSpeed = orientationSpeedToSet; }
-    inline void SetSpeed(const float speedToSet) { this->movementSpeed = speedToSet; }
     inline void SetModel(Model* modelToSet) { this->playerObj = modelToSet; }
 
     // Métodos principales
