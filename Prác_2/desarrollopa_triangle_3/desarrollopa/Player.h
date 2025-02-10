@@ -12,10 +12,6 @@ private:
 
 
 public:
-    // Constructor y Destructor
-    Player() : movementSpeed(1.0f), playerObj(nullptr) {}
-    ~Player();
-
 
 	// Constructor
 	Player() : movementSpeed(1.0f), Solid()
@@ -36,6 +32,8 @@ public:
 
 		this->SetModel(tank);
 	}
+
+	~Player();
 
 	inline Model* GetModel() { return this->playerObj; } 
 	

@@ -10,10 +10,12 @@
 
 
 
-void Player::Render()
+/*void Player::Render()
 {
     this->playerObj->Render();  
-}
+}*/
+
+Player::~Player() {};
 
 void Player::Render() {
     if (playerObj) {
