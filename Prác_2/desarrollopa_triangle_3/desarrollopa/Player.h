@@ -13,12 +13,12 @@ private:
 
 public:
     // Constructor y Destructor
-    Player() : movementSpeed(1.0f), playerObj(nullptr) {}
+    //Player() : movementSpeed(1.0f), playerObj(nullptr) {}
     ~Player();
 
 
 	// Constructor
-	Player() : movementSpeed(1.0f), Solid()
+	Player() : movementSpeed(0.2f), Solid()
 	{
 		//Instanciamos un loader para leer el archivo obj
 		ModelLoader* loader = new ModelLoader();
@@ -32,6 +32,7 @@ public:
 		//lo colocamos m?s cerca del centro de la escena
 		tank->SetPosition(Vector3D(4, 4, 0));
 		tank->SetOrientation(Vector3D(0, 0, 180)); //180 para que mire hacia arriba
+		this->SetOrientation(tank->GetOrientation());
 		tank->SetColor(Color(0.0, 1.0, 0.0, 1.0));
 
 		this->SetModel(tank);

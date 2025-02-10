@@ -26,7 +26,7 @@ private:
 
 public:
 
-	Game() : activeScene(nullptr), tank(nullptr), initialMilliseconds(duration_cast<milliseconds>(system_clock::now().time_since_epoch())), lastUpdatedTime(0) { }
+	Game() : activeScene(nullptr), initialMilliseconds(duration_cast<milliseconds>(system_clock::now().time_since_epoch())), lastUpdatedTime(0) { }
 
 	void Init();
 	void Render();

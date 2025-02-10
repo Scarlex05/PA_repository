@@ -20,7 +20,7 @@ void Scene::Render()
 	this->player->Render();
 }
 
-void Scene::Update() 
+void Scene::Update() //esto creo q hay q cambiarlo
 {
 	for (int idx = 0; idx < this->gameObjects.size(); idx++)
 	{
@@ -46,6 +46,7 @@ void Scene::checkBoundary()
 		this->checkBoundary(this->gameObjects[idx]);
 
 	}
+	this->checkBoundary(this->player);
 }
 
 void Scene::checkBoundary(Solid* element)
@@ -86,6 +87,7 @@ void Scene::checkBoundary(Solid* element)
 		element->SetSpeed(Vector3D(element->GetSpeed().GetX(), element->GetSpeed().GetY(), -1 * element->GetSpeed().GetZ()));
 	}
 }
+
 
 void Scene::renderBoundary()
 {
