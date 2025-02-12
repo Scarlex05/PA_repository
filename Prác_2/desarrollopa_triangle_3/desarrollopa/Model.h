@@ -12,8 +12,6 @@ private:
 	vector<Triangle> triangles;
 public:
 	Model() {}
-
-	Solid* Clone();
 	
 	void Render();
 
