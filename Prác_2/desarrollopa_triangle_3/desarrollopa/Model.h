@@ -14,12 +14,15 @@ public:
 	Model() {}
 
 	Solid* Clone();
+	
 	void Render();
 
 	void AddTriangle(Triangle triangle);
 	void Clear();
 
 	void SetColor(Color colorToSet) override;
+
+	Solid* Clone();
 
 };
 

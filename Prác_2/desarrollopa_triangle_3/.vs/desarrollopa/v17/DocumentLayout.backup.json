@@ -1,33 +1,183 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\carla\\OneDrive - Universidad Rey Juan Carlos\\Escritorio\\GitHubDesktop\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\",
+  "WorkspaceRootPath": "C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\carla\\OneDrive - Universidad Rey Juan Carlos\\Escritorio\\GitHubDesktop\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\carla\\OneDrive - Universidad Rey Juan Carlos\\Escritorio\\GitHubDesktop\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\desarrollopa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\desarrollopa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\desarrollopa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\carla\\OneDrive - Universidad Rey Juan Carlos\\Escritorio\\GitHubDesktop\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\carla\\OneDrive - Universidad Rey Juan Carlos\\Escritorio\\GitHubDesktop\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\carla\\OneDrive - Universidad Rey Juan Carlos\\Escritorio\\GitHubDesktop\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\carla\\OneDrive - Universidad Rey Juan Carlos\\Escritorio\\GitHubDesktop\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\carla\\OneDrive - Universidad Rey Juan Carlos\\Escritorio\\GitHubDesktop\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+  "WorkspaceRootPath": "C:\\Users\\psnda\\Desktop\\ahorasepogamepro\\ahorasepogamepro\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\psnda\\Desktop\\ahorasepogamepro\\ahorasepogamepro\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\psnda\\Desktop\\ahorasepogamepro\\ahorasepogamepro\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\psnda\\Desktop\\ahorasepogamepro\\ahorasepogamepro\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\psnda\\Desktop\\ahorasepogamepro\\ahorasepogamepro\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\desarrollopa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\desarrollopa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+  "WorkspaceRootPath": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Emitter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Emitter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\USERS\\PSNDA\\DESKTOP\\PA_REPO\\PA_REPOSITORY\\PR\u00C1C_2\\DESARROLLOPA_TRIANGLE_3\\DESARROLLOPA\\EMITTERCONFIGURATION.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:DESARROLLOPA\\EMITTERCONFIGURATION.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\EmitterConfiguration.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\EmitterConfiguration.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\BulletEmitter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\BulletEmitter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\BulletEmitter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\BulletEmitter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Solid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Solid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Emitter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Emitter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Solid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Solid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Model.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Model.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Model.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Model.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Cube.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Cube.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Cuboid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Cuboid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Cylinder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Cylinder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Display.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Display.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Teapot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Teapot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Text.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Text.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Torus.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Torus.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Teapot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Teapot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Text.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Text.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Torus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Torus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Sphere.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Sphere.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Cylinder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Cylinder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Cuboid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Cuboid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\desarrollopa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\desarrollopa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -38,45 +188,444 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Player.cpp",
-              "DocumentMoniker": "C:\\Users\\carla\\OneDrive - Universidad Rey Juan Carlos\\Escritorio\\GitHubDesktop\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Player.cpp",
+              "DocumentMoniker": "C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Player.cpp",
               "RelativeDocumentMoniker": "desarrollopa\\Player.cpp",
-              "ToolTip": "C:\\Users\\carla\\OneDrive - Universidad Rey Juan Carlos\\Escritorio\\GitHubDesktop\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Player.cpp",
+              "ToolTip": "C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Player.cpp",
               "RelativeToolTip": "desarrollopa\\Player.cpp",
               "ViewState": "AQIAAEIAAAAAAAAAAAAAADAAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-31T09:59:58.459Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Player.h",
-              "DocumentMoniker": "C:\\Users\\carla\\OneDrive - Universidad Rey Juan Carlos\\Escritorio\\GitHubDesktop\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Player.h",
+              "DocumentMoniker": "C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Player.h",
               "RelativeDocumentMoniker": "desarrollopa\\Player.h",
-              "ToolTip": "C:\\Users\\carla\\OneDrive - Universidad Rey Juan Carlos\\Escritorio\\GitHubDesktop\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Player.h",
+              "ToolTip": "C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Player.h",
               "RelativeToolTip": "desarrollopa\\Player.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAdAAAA",
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\ahorasepogamepro\\ahorasepogamepro\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Player.cpp",
+              "RelativeDocumentMoniker": "desarrollopa\\Player.cpp",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\ahorasepogamepro\\ahorasepogamepro\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Player.cpp",
+              "RelativeToolTip": "desarrollopa\\Player.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmitterConfiguration.cpp",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\EmitterConfiguration.cpp",
+              "RelativeDocumentMoniker": "desarrollopa\\EmitterConfiguration.cpp",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\EmitterConfiguration.cpp",
+              "RelativeToolTip": "desarrollopa\\EmitterConfiguration.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-11T12:04:21.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BulletEmitter.cpp",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\BulletEmitter.cpp",
+              "RelativeDocumentMoniker": "desarrollopa\\BulletEmitter.cpp",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\BulletEmitter.cpp",
+              "RelativeToolTip": "desarrollopa\\BulletEmitter.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-11T11:26:02.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\ahorasepogamepro\\ahorasepogamepro\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Player.h",
+              "RelativeDocumentMoniker": "desarrollopa\\Player.h",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\ahorasepogamepro\\ahorasepogamepro\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Player.h",
+              "RelativeToolTip": "desarrollopa\\Player.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-12-31T10:00:05.366Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Scene.h",
-              "DocumentMoniker": "C:\\Users\\carla\\OneDrive - Universidad Rey Juan Carlos\\Escritorio\\GitHubDesktop\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Scene.h",
+              "DocumentMoniker": "C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Scene.h",
               "RelativeDocumentMoniker": "desarrollopa\\Scene.h",
-              "ToolTip": "C:\\Users\\carla\\OneDrive - Universidad Rey Juan Carlos\\Escritorio\\GitHubDesktop\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Scene.h",
+              "ToolTip": "C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Scene.h",
               "RelativeToolTip": "desarrollopa\\Scene.h",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABkAAAAsAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\ahorasepogamepro\\ahorasepogamepro\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Game.cpp",
+              "RelativeDocumentMoniker": "desarrollopa\\Game.cpp",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\ahorasepogamepro\\ahorasepogamepro\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Game.cpp",
+              "RelativeToolTip": "desarrollopa\\Game.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABAAAAAUAAAA",
+              "DocumentIndex": 3,
+              "Title": "BulletEmitter.h",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\BulletEmitter.h",
+              "RelativeDocumentMoniker": "desarrollopa\\BulletEmitter.h",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\BulletEmitter.h",
+              "RelativeToolTip": "desarrollopa\\BulletEmitter.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-11T11:25:42.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Model.cpp",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Model.cpp",
+              "RelativeDocumentMoniker": "desarrollopa\\Model.cpp",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Model.cpp",
+              "RelativeToolTip": "desarrollopa\\Model.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-11T11:20:44.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Player.cpp",
+              "RelativeDocumentMoniker": "desarrollopa\\Player.cpp",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Player.cpp",
+              "RelativeToolTip": "desarrollopa\\Player.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-11T11:19:47.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Player.h",
+              "RelativeDocumentMoniker": "desarrollopa\\Player.h",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Player.h",
+              "RelativeToolTip": "desarrollopa\\Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-11T11:19:32.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Camera.cpp",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Camera.cpp",
+              "RelativeDocumentMoniker": "desarrollopa\\Camera.cpp",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Camera.cpp",
+              "RelativeToolTip": "desarrollopa\\Camera.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-11T11:18:49.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Camera.h",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Camera.h",
+              "RelativeDocumentMoniker": "desarrollopa\\Camera.h",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Camera.h",
+              "RelativeToolTip": "desarrollopa\\Camera.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-11T11:15:47.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Model.h",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Model.h",
+              "RelativeDocumentMoniker": "desarrollopa\\Model.h",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Model.h",
+              "RelativeToolTip": "desarrollopa\\Model.h",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-11T11:14:52.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Sphere.h",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Sphere.h",
+              "RelativeDocumentMoniker": "desarrollopa\\Sphere.h",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Sphere.h",
+              "RelativeToolTip": "desarrollopa\\Sphere.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-11T11:14:18.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Teapot.h",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Teapot.h",
+              "RelativeDocumentMoniker": "desarrollopa\\Teapot.h",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Teapot.h",
+              "RelativeToolTip": "desarrollopa\\Teapot.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-11T11:14:15.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Torus.h",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Torus.h",
+              "RelativeDocumentMoniker": "desarrollopa\\Torus.h",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Torus.h",
+              "RelativeToolTip": "desarrollopa\\Torus.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-11T11:14:05.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Torus.cpp",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Torus.cpp",
+              "RelativeDocumentMoniker": "desarrollopa\\Torus.cpp",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Torus.cpp",
+              "RelativeToolTip": "desarrollopa\\Torus.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-11T11:13:41.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Text.cpp",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Text.cpp",
+              "RelativeDocumentMoniker": "desarrollopa\\Text.cpp",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Text.cpp",
+              "RelativeToolTip": "desarrollopa\\Text.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-11T11:13:10.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Teapot.cpp",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Teapot.cpp",
+              "RelativeDocumentMoniker": "desarrollopa\\Teapot.cpp",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Teapot.cpp",
+              "RelativeToolTip": "desarrollopa\\Teapot.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-11T11:12:59.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Sphere.cpp",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Sphere.cpp",
+              "RelativeDocumentMoniker": "desarrollopa\\Sphere.cpp",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Sphere.cpp",
+              "RelativeToolTip": "desarrollopa\\Sphere.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-11T11:12:50.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Cylinder.cpp",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Cylinder.cpp",
+              "RelativeDocumentMoniker": "desarrollopa\\Cylinder.cpp",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Cylinder.cpp",
+              "RelativeToolTip": "desarrollopa\\Cylinder.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-11T11:12:16.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Cuboid.cpp",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Cuboid.cpp",
+              "RelativeDocumentMoniker": "desarrollopa\\Cuboid.cpp",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Cuboid.cpp",
+              "RelativeToolTip": "desarrollopa\\Cuboid.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-11T11:08:54.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Display.h",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Display.h",
+              "RelativeDocumentMoniker": "desarrollopa\\Display.h",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Display.h",
+              "RelativeToolTip": "desarrollopa\\Display.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-11T11:06:40.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Cylinder.h",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Cylinder.h",
+              "RelativeDocumentMoniker": "desarrollopa\\Cylinder.h",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Cylinder.h",
+              "RelativeToolTip": "desarrollopa\\Cylinder.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-11T11:06:39.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Cuboid.h",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Cuboid.h",
+              "RelativeDocumentMoniker": "desarrollopa\\Cuboid.h",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Cuboid.h",
+              "RelativeToolTip": "desarrollopa\\Cuboid.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-11T11:06:38.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Cube.h",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Cube.h",
+              "RelativeDocumentMoniker": "desarrollopa\\Cube.h",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Cube.h",
+              "RelativeToolTip": "desarrollopa\\Cube.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-11T11:06:37.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Solid.h",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Solid.h",
+              "RelativeDocumentMoniker": "desarrollopa\\Solid.h",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Solid.h",
+              "RelativeToolTip": "desarrollopa\\Solid.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-11T11:05:42.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BulletEmitter.h",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\EmitterConfiguration.h",
+              "RelativeDocumentMoniker": "desarrollopa\\EmitterConfiguration.h",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\EmitterConfiguration.h",
+              "RelativeToolTip": "desarrollopa\\EmitterConfiguration.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-11T11:04:24.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Emitter.h",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Emitter.h",
+              "RelativeDocumentMoniker": "desarrollopa\\Emitter.h",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Emitter.h",
+              "RelativeToolTip": "desarrollopa\\Emitter.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-11T11:02:14.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Emitter.cpp",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Emitter.cpp",
+              "RelativeDocumentMoniker": "desarrollopa\\Emitter.cpp",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Emitter.cpp",
+              "RelativeToolTip": "desarrollopa\\Emitter.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-11T11:02:25.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Text.h",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Text.h",
+              "RelativeDocumentMoniker": "desarrollopa\\Text.h",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Text.h",
+              "RelativeToolTip": "desarrollopa\\Text.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-11T10:53:35.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Solid.cpp",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Solid.cpp",
+              "RelativeDocumentMoniker": "desarrollopa\\Solid.cpp",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Solid.cpp",
+              "RelativeToolTip": "desarrollopa\\Solid.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-11T10:39:53.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Scene.h",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Scene.h",
+              "RelativeDocumentMoniker": "desarrollopa\\Scene.h",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Scene.h",
+              "RelativeToolTip": "desarrollopa\\Scene.h",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-02-10T12:30:48.801Z",
               "EditorCaption": ""
@@ -85,53 +634,86 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Scene.cpp",
-              "DocumentMoniker": "C:\\Users\\carla\\OneDrive - Universidad Rey Juan Carlos\\Escritorio\\GitHubDesktop\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Scene.cpp",
+              "DocumentMoniker": "C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Scene.cpp",
               "RelativeDocumentMoniker": "desarrollopa\\Scene.cpp",
-              "ToolTip": "C:\\Users\\carla\\OneDrive - Universidad Rey Juan Carlos\\Escritorio\\GitHubDesktop\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Scene.cpp",
+              "ToolTip": "C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Scene.cpp",
               "RelativeToolTip": "desarrollopa\\Scene.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-10T11:52:41.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Game.h",
+              "RelativeDocumentMoniker": "desarrollopa\\Game.h",
+              "ToolTip": "C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Game.h",
+              "DocumentIndex": 30,
+              "Title": "Scene.cpp",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Scene.cpp",
+              "RelativeDocumentMoniker": "desarrollopa\\Scene.cpp",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Scene.cpp",
+              "RelativeToolTip": "desarrollopa\\Scene.cpp",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAcwF0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-10T11:52:41.676Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 32,
               "Title": "Game.h",
-              "DocumentMoniker": "C:\\Users\\carla\\OneDrive - Universidad Rey Juan Carlos\\Escritorio\\GitHubDesktop\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Game.h",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Game.h",
               "RelativeDocumentMoniker": "desarrollopa\\Game.h",
-              "ToolTip": "C:\\Users\\carla\\OneDrive - Universidad Rey Juan Carlos\\Escritorio\\GitHubDesktop\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Game.h",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Game.h",
               "RelativeToolTip": "desarrollopa\\Game.h",
               "ViewState": "AQIAAAsAAAAAAAAAAADwvxwAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-10T11:26:55.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T11:26:55.527Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Game.cpp",
-              "DocumentMoniker": "C:\\Users\\carla\\OneDrive - Universidad Rey Juan Carlos\\Escritorio\\GitHubDesktop\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Game.cpp",
+              "DocumentMoniker": "C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Game.cpp",
               "RelativeDocumentMoniker": "desarrollopa\\Game.cpp",
-              "ToolTip": "C:\\Users\\carla\\OneDrive - Universidad Rey Juan Carlos\\Escritorio\\GitHubDesktop\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Game.cpp",
+              "ToolTip": "C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Game.cpp",
               "RelativeToolTip": "desarrollopa\\Game.cpp",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAADQAAAAuAAAA",
+              "DocumentIndex": 9,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Game.cpp",
+              "RelativeDocumentMoniker": "desarrollopa\\Game.cpp",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Game.cpp",
+              "RelativeToolTip": "desarrollopa\\Game.cpp",
+              "ViewState": "AgIAACUAAAAAAAAAAAAewDQAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-31T10:59:32.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T10:59:32.845Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "desarrollopa.cpp",
-              "DocumentMoniker": "C:\\Users\\carla\\OneDrive - Universidad Rey Juan Carlos\\Escritorio\\GitHubDesktop\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\desarrollopa.cpp",
+              "DocumentMoniker": "C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\desarrollopa.cpp",
               "RelativeDocumentMoniker": "desarrollopa\\desarrollopa.cpp",
-              "ToolTip": "C:\\Users\\carla\\OneDrive - Universidad Rey Juan Carlos\\Escritorio\\GitHubDesktop\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\desarrollopa.cpp",
+              "ToolTip": "C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\desarrollopa.cpp",
               "RelativeToolTip": "desarrollopa\\desarrollopa.cpp",
               "ViewState": "AQIAACkAAAAAAAAAAAArwDcAAAAMAAAA",
+              "DocumentIndex": 3,
+              "Title": "desarrollopa.cpp",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\ahorasepogamepro\\ahorasepogamepro\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\desarrollopa.cpp",
+              "RelativeDocumentMoniker": "desarrollopa\\desarrollopa.cpp",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\ahorasepogamepro\\ahorasepogamepro\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\desarrollopa.cpp",
+              "DocumentIndex": 31,
+              "Title": "desarrollopa.cpp",
+              "DocumentMoniker": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\desarrollopa.cpp",
+              "RelativeDocumentMoniker": "desarrollopa\\desarrollopa.cpp",
+              "ToolTip": "C:\\Users\\psnda\\Desktop\\PA_Repo\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\desarrollopa.cpp",
+              "RelativeToolTip": "desarrollopa\\desarrollopa.cpp",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-31T09:59:15.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T09:59:15.339Z"
             }
           ]
         }

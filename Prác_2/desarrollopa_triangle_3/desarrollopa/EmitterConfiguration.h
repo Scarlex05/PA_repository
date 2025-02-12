@@ -2,6 +2,7 @@
 #include <GL/glut.h>
 #include "Solid.h"
 #include "Teapot.h"
+#include "Sphere.h"
 
 class EmitterConfiguration
 {
