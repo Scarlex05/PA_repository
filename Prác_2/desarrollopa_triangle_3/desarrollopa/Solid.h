@@ -43,5 +43,6 @@ public:
 
 	virtual void Render() = 0;
 	virtual void Update(const float& time);
+	virtual Solid* Clone() = 0;
 };
 

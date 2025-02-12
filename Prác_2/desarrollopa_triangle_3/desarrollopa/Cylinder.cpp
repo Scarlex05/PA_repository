@@ -12,3 +12,8 @@ void Cylinder::Render() {
 	glPopMatrix();
 	gluDeleteQuadric(quadricTemp);
 }
+
+Solid* Cylinder::Clone() {
+	return new Cylinder(*this);
+}
+

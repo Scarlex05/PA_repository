@@ -12,3 +12,9 @@ void Sphere::Render()
 	else { glutWireSphere(GetRadius(), GetSlices(), GetSlacks()); }
 	glPopMatrix();
 }
+
+
+Solid* Sphere::Clone() {
+	return new Sphere(*this);
+}
+

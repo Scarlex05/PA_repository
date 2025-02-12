@@ -50,11 +50,15 @@ void Emitter::Update()
 
 		cout << this->lastUpdatedTime << endl;
 	}
+void Emitter::Update(const float& time)
+{
+	
 	//vuelves a poner a 0
 
 	for (int idx = 0; idx < this->particulas.size(); idx++)
 	{
 		this->particulas[idx]->Update();
+		this->particulas[idx]->Update(time);
 	}
 }
 	//vuelves a poner a 0

@@ -3,32 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Cuboid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:desarrollopa\\Cuboid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\desarrollopa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\desarrollopa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Cuboid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:desarrollopa\\Cuboid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\BulletEmitter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:desarrollopa\\BulletEmitter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:desarrollopa\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:desarrollopa\\Scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:desarrollopa\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:desarrollopa\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:desarrollopa\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:desarrollopa\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\desarrollopa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:desarrollopa\\desarrollopa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,24 +50,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "Cuboid.h",
+              "DocumentMoniker": "C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Cuboid.h",
+              "RelativeDocumentMoniker": "desarrollopa\\Cuboid.h",
+              "ToolTip": "C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Cuboid.h",
+              "RelativeToolTip": "desarrollopa\\Cuboid.h",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-12T10:53:49.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cuboid.cpp",
+              "DocumentMoniker": "C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Cuboid.cpp",
+              "RelativeDocumentMoniker": "desarrollopa\\Cuboid.cpp",
+              "ToolTip": "C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Cuboid.cpp",
+              "RelativeToolTip": "desarrollopa\\Cuboid.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-12T10:52:41.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BulletEmitter.cpp",
+              "DocumentMoniker": "C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\BulletEmitter.cpp",
+              "RelativeDocumentMoniker": "desarrollopa\\BulletEmitter.cpp",
+              "ToolTip": "C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\BulletEmitter.cpp",
+              "RelativeToolTip": "desarrollopa\\BulletEmitter.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-12T10:52:06.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Player.cpp",
               "DocumentMoniker": "C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Player.cpp",
               "RelativeDocumentMoniker": "desarrollopa\\Player.cpp",
               "ToolTip": "C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Player.cpp",
               "RelativeToolTip": "desarrollopa\\Player.cpp",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAAADAAAAApAAAA",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAC8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-31T09:59:58.459Z",
-              "IsPinned": true
+              "WhenOpened": "2025-02-12T10:50:30.337Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Player.h",
               "DocumentMoniker": "C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Player.h",
               "RelativeDocumentMoniker": "desarrollopa\\Player.h",
@@ -63,37 +114,37 @@
               "RelativeToolTip": "desarrollopa\\Player.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-31T10:00:05.366Z",
-              "IsPinned": true
+              "WhenOpened": "2025-02-12T10:50:30.592Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Scene.h",
               "DocumentMoniker": "C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Scene.h",
               "RelativeDocumentMoniker": "desarrollopa\\Scene.h",
               "ToolTip": "C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Scene.h",
               "RelativeToolTip": "desarrollopa\\Scene.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-10T12:30:48.801Z",
+              "WhenOpened": "2025-02-12T10:50:30.592Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Scene.cpp",
               "DocumentMoniker": "C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Scene.cpp",
               "RelativeDocumentMoniker": "desarrollopa\\Scene.cpp",
               "ToolTip": "C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Scene.cpp",
               "RelativeToolTip": "desarrollopa\\Scene.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAjAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-10T11:52:41.676Z"
+              "WhenOpened": "2025-02-12T10:50:30.607Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Game.h",
               "DocumentMoniker": "C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Game.h",
               "RelativeDocumentMoniker": "desarrollopa\\Game.h",
@@ -101,11 +152,11 @@
               "RelativeToolTip": "desarrollopa\\Game.h",
               "ViewState": "AQIAAAsAAAAAAAAAAADwvxwAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-10T11:26:55.527Z"
+              "WhenOpened": "2025-02-12T10:50:30.607Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Game.cpp",
               "DocumentMoniker": "C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\Game.cpp",
               "RelativeDocumentMoniker": "desarrollopa\\Game.cpp",
@@ -113,11 +164,11 @@
               "RelativeToolTip": "desarrollopa\\Game.cpp",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAADQAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-31T10:59:32.845Z"
+              "WhenOpened": "2025-02-12T10:50:30.616Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "desarrollopa.cpp",
               "DocumentMoniker": "C:\\Users\\mafer\\OneDrive - Universidad Rey Juan Carlos\\Uni\\2\u00BA\\1er Cuatri\\PA\\Practica2\\PA_repository\\Pr\u00E1c_2\\desarrollopa_triangle_3\\desarrollopa\\desarrollopa.cpp",
               "RelativeDocumentMoniker": "desarrollopa\\desarrollopa.cpp",
@@ -125,7 +176,7 @@
               "RelativeToolTip": "desarrollopa\\desarrollopa.cpp",
               "ViewState": "AQIAACkAAAAAAAAAAAArwDcAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-31T09:59:15.339Z"
+              "WhenOpened": "2025-02-12T10:50:30.62Z"
             }
           ]
         }
