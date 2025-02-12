@@ -16,3 +16,4 @@ public:
 	void ProcessKeyPressed(unsigned char key, int px, int py);
 
 };
+

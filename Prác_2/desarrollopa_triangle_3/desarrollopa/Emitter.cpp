@@ -32,7 +32,7 @@ void Emitter::Update()
 
 		particle->SetOrientation(Vector3D(seno, coseno, 0));
 		Vector3D velocidad = Vector3D(seno * 0.01, coseno * 0.01, 0); //Se crea una variable para que sea más fácil darle el color después
-		particle->SetVelocidad(velocidad);
+		particle->SetSpeed(velocidad);
 		particle->SetOrientationSpeed(Vector3D(0, 0, 1));
 
 		float red = fabs(velocidad.GetX()) * 50.0f;  // Multiplicamos para hacer los colores más perceptibles
@@ -50,6 +50,8 @@ void Emitter::Update()
 
 		cout << this->lastUpdatedTime << endl;
 	}
+}
+
 void Emitter::Update(const float& time)
 {
 	
@@ -57,7 +59,7 @@ void Emitter::Update(const float& time)
 
 	for (int idx = 0; idx < this->particulas.size(); idx++)
 	{
-		this->particulas[idx]->Update();
+		//this->particulas[idx]->Update();
 		this->particulas[idx]->Update(time);
 	}
 }

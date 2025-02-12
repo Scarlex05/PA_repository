@@ -40,6 +40,3 @@ void Model::SetColor(Color colorToSet)
 		triangle.SetColor2(colorToSet);
 	}
 }
-
-
-}
