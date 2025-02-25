@@ -23,7 +23,7 @@ void Game::Init()
 	this->scenes.push_back(scene1);
 	this->scenes.push_back(scene2);
 	this->scenes.push_back(scene3);
-	this->activeScene = scene2; // Se cambiará al menú cuando esté implementado
+	this->activeScene = scene1; // Se cambiará al menú cuando esté implementado
 
 }
 

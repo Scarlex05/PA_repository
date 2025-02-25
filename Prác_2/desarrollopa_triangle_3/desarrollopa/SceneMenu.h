@@ -1,4 +1,5 @@
 #pragma once
+#include <GL/glut.h>
 #include "Scene.h"
 #include "Cuboid.h"
 
@@ -11,9 +12,9 @@ public:
 	// void AddGameObject(Solid* gameObject); 
 
     SceneMenu() {
-		button.SetPosition(Vector3D (0, 0, 0)); // Ajusta la posición según tu escena
-		button.SetWidth(1.0);
-		button.SetHeight(0.5);
+		button.SetPosition(Vector3D (0, 0, -5));
+		button.SetWidth(5.0);
+		button.SetHeight(1.);
     }
 
 	bool IsClickInsideButton(int x, int y);
