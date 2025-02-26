@@ -60,7 +60,7 @@ void Player::ProcessKeyPressed(unsigned char key, int px, int py)
         this->SetOrientation(Vector3D(this->GetOrientation().GetX(), this->GetOrientation().GetY(), this->GetOrientation().GetZ() - 5.0f));
         
         if (this->GetOrientation().GetZ() >= 360.0f) {
-            this->SetOrientation(Vector3D(this->GetOrientation().GetX(), this->GetOrientation().GetY(), this->GetOrientation().GetZ() + 360.0f));
+            this->SetOrientation(Vector3D(this->GetOrientation().GetX(), this->GetOrientation().GetY(), this->GetOrientation().GetZ() - 360.0f));
         }
         break;
 

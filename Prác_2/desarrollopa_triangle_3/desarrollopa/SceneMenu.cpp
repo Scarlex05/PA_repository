@@ -29,6 +29,7 @@ bool SceneMenu::IsClickInsideButton(int x, int y) {
 void SceneMenu::Render() {
     this->GetCamera().Render();
     button.Render(); // Dibuja el botón
+    texto.Render();
 }
 
 void SceneMenu::Update()
