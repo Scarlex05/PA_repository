@@ -135,6 +135,10 @@
     <ClCompile Include="Cylinder.cpp" />
     <ClCompile Include="desarrollopa.cpp" />
     <ClCompile Include="Display.cpp" />
+<<<<<<< Updated upstream
+    <ClCompile Include="Emitter.cpp" />
+    <ClCompile Include="EmitterConfiguration.cpp" />
+>>>>>>> Stashed changes
     <ClCompile Include="Game.cpp" />
     <ClCompile Include="Model.cpp" />
     <ClCompile Include="ModelLoader.cpp" />
@@ -155,6 +159,10 @@
     <ClInclude Include="Cuboid.h" />
     <ClInclude Include="Cylinder.h" />
     <ClInclude Include="Display.h" />
+<<<<<<< Updated upstream
+    <ClInclude Include="Emitter.h" />
+    <ClInclude Include="EmitterConfiguration.h" />
+>>>>>>> Stashed changes
     <ClInclude Include="Game.h" />
     <ClInclude Include="Model.h" />
     <ClInclude Include="ModelLoader.h" />

@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 PlatformToolSet=v143:VCToolArchitecture=Native64Bit:VCToolsVersion=14.39.33519:TargetPlatformVersion=10.0.22621.0:
 Debug|x64|C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\GitHubDesktop\PA_repository\Prác_2\desarrollopa_triangle_3\|
 <<<<<<< Updated upstream
@@ -5,3 +6,7 @@ PlatformToolSet=v143:VCToolArchitecture=Native64Bit:VCToolsVersion=14.41.34120:T
 Debug|x64|C:\Users\psnda\Desktop\ahorasepogamepro\ahorasepogamepro\PA_repository\Prác_2\desarrollopa_triangle_3\|
 PlatformToolSet=v143:VCToolArchitecture=Native64Bit:VCToolsVersion=14.41.34120:TargetPlatformVersion=10.0.22621.0:
 Debug|x64|C:\Users\psnda\Desktop\PA_Repo\PA_repository\Prác_2\desarrollopa_triangle_3\|
+=======
+PlatformToolSet=v143:VCToolArchitecture=Native64Bit:VCToolsVersion=14.43.34808:TargetPlatformVersion=10.0.22621.0:
+Debug|x64|C:\Users\mafer\OneDrive - Universidad Rey Juan Carlos\Uni\2º\1er Cuatri\PA\Practica2\PA_repository\Prác_2\desarrollopa_triangle_3\|
+>>>>>>> Stashed changes
