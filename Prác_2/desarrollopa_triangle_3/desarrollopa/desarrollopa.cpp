@@ -13,9 +13,9 @@ const int WINDOW_POSITION_X = 300;
 const int WINDOW_POSITION_Y = 100;
 const char TITLE[] = "PARTE 2";
 
-const GLclampf RED = 0.6;
-const GLclampf GREEN = 0.8;
-const GLclampf BLUE = 0.7;
+const GLclampf RED = 0.;
+const GLclampf GREEN = 0.;
+const GLclampf BLUE = 0.;
 const GLclampf ALPHA = 1.0;
 
 bool fullScreenMode = false;

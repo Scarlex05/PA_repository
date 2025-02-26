@@ -1,23 +1,29 @@
-<<<<<<< Updated upstream
+
 ﻿  Scene.cpp
 C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\GitHubDesktop\PA_repository\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,15): warning C4305: 'initializing': truncation from 'double' to 'float'
   (compiling source file 'Scene.cpp')
+
+﻿  Game.cpp
+C:\Users\anits\Downloads\PA_repository-main\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Game.cpp")
+
   
-C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\GitHubDesktop\PA_repository\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,27): warning C4305: 'initializing': truncation from 'double' to 'float'
-  (compiling source file 'Scene.cpp')
+C:\Users\anits\Downloads\PA_repository-main\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Game.cpp")
   
-C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\GitHubDesktop\PA_repository\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,38): warning C4305: 'initializing': truncation from 'double' to 'float'
-  (compiling source file 'Scene.cpp')
+C:\Users\anits\Downloads\PA_repository-main\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Game.cpp")
   
-C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\GitHubDesktop\PA_repository\Prác_2\desarrollopa_triangle_3\desarrollopa\Cuboid.h(15,28): warning C4305: 'initializing': truncation from 'double' to 'float'
-  (compiling source file 'Scene.cpp')
+C:\Users\anits\Downloads\PA_repository-main\Prác_2\desarrollopa_triangle_3\desarrollopa\Cuboid.h(15,28): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Game.cpp")
   
-C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\GitHubDesktop\PA_repository\Prác_2\desarrollopa_triangle_3\desarrollopa\Cuboid.h(15,41): warning C4305: 'initializing': truncation from 'double' to 'float'
-  (compiling source file 'Scene.cpp')
+C:\Users\anits\Downloads\PA_repository-main\Prác_2\desarrollopa_triangle_3\desarrollopa\Cuboid.h(15,41): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Game.cpp")
   
-C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\GitHubDesktop\PA_repository\Prác_2\desarrollopa_triangle_3\desarrollopa\Scene.h(29,95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-  (compiling source file 'Scene.cpp')
+C:\Users\anits\Downloads\PA_repository-main\Prác_2\desarrollopa_triangle_3\desarrollopa\Teapot.h(12,17): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Game.cpp")
   
+
 C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\GitHubDesktop\PA_repository\Prác_2\desarrollopa_triangle_3\desarrollopa\Scene.cpp(96,20): warning C4305: 'argument': truncation from 'double' to 'float'
 C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\GitHubDesktop\PA_repository\Prác_2\desarrollopa_triangle_3\desarrollopa\Scene.cpp(104,17): warning C4305: 'argument': truncation from 'double' to 'float'
 C:\Users\carla\OneDrive - Universidad Rey Juan Carlos\Escritorio\GitHubDesktop\PA_repository\Prác_2\desarrollopa_triangle_3\desarrollopa\Scene.cpp(111,18): warning C4305: 'argument': truncation from 'double' to 'float'
@@ -318,7 +324,7 @@ C:\Users\psnda\Desktop\ahorasepogamepro\ahorasepogamepro\PA_repository\Prác_2\d
   
   Vector3D.cpp
   Generando código...
-=======
+
 ﻿  BulletEmitter.cpp
 C:\Users\psnda\Desktop\PA_Repo\PA_repository\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
   (compilando archivo de origen "BulletEmitter.cpp")
@@ -465,7 +471,7 @@ C:\Users\psnda\Desktop\PA_Repo\PA_repository\Prác_2\desarrollopa_triangle_3\des
 C:\Users\psnda\Desktop\PA_Repo\PA_repository\Prác_2\desarrollopa_triangle_3\desarrollopa\desarrollopa.cpp(18,23): warning C4305: 'inicializando': truncamiento de 'double' a 'GLclampf'
   Generando código...
   desarrollopa.vcxproj -> C:\Users\psnda\Desktop\PA_Repo\PA_repository\Prác_2\desarrollopa_triangle_3\x64\Debug\desarrollopa.exe
-=======
+
 ﻿  BulletEmitter.cpp
 C:\Users\mafer\OneDrive - Universidad Rey Juan Carlos\Uni\2º\1er Cuatri\PA\Practica2\PA_repository\Prác_2\desarrollopa_triangle_3\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
   (compilando archivo de origen "BulletEmitter.cpp")
@@ -656,4 +662,14 @@ C:\Users\mafer\OneDrive - Universidad Rey Juan Carlos\Uni\2º\1er Cuatri\PA\Prac
   
   Generando código...
   desarrollopa.vcxproj -> C:\Users\mafer\OneDrive - Universidad Rey Juan Carlos\Uni\2º\1er Cuatri\PA\Practica2\PA_repository\Prác_2\desarrollopa_triangle_3\x64\Debug\desarrollopa.exe
->>>>>>> Stashed changes
+
+C:\Users\anits\Downloads\PA_repository-main\Prác_2\desarrollopa_triangle_3\desarrollopa\SceneGame.h(22,100): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "Game.cpp")
+  
+C:\Users\anits\Downloads\PA_repository-main\Prác_2\desarrollopa_triangle_3\desarrollopa\Game.cpp(42,47): warning C4244: '=': conversión de '_Rep' a 'long'; posible pérdida de datos
+C:\Users\anits\Downloads\PA_repository-main\Prác_2\desarrollopa_triangle_3\desarrollopa\Game.cpp(42,47): warning C4244:         with
+C:\Users\anits\Downloads\PA_repository-main\Prác_2\desarrollopa_triangle_3\desarrollopa\Game.cpp(42,47): warning C4244:         [
+C:\Users\anits\Downloads\PA_repository-main\Prác_2\desarrollopa_triangle_3\desarrollopa\Game.cpp(42,47): warning C4244:             _Rep=__int64
+C:\Users\anits\Downloads\PA_repository-main\Prác_2\desarrollopa_triangle_3\desarrollopa\Game.cpp(42,47): warning C4244:         ]
+  desarrollopa.vcxproj -> C:\Users\anits\Downloads\PA_repository-main\Prác_2\desarrollopa_triangle_3\x64\Debug\desarrollopa.exe
+

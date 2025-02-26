@@ -1,6 +1,8 @@
 #pragma once
 #include "Display.h"
 #include "Scene.h"
+#include "SceneGame.h"
+#include "SceneMenu.h"
 #include "Triangle.h"
 #include "Model.h"
 #include "ModelLoader.h"
