@@ -15,7 +15,7 @@ private:
 public:
     // Constructor
     Text() : red(1.f), green(1.f), blue(1.f), alpha(1.f),
-        position(0.f, 0.f, 0.f), font(GLUT_BITMAP_8_BY_13), text("") {}
+        position(0.f, 0.f, -5.f), font(GLUT_BITMAP_TIMES_ROMAN_24), text("") {}
 
     // Setters
     inline void SetColor(float r, float g, float b, float a) { red = r; green = g; blue = b; alpha = a; };

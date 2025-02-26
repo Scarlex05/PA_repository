@@ -12,11 +12,11 @@ class Scene
 {
 private:
 	Camera camera;
-	Text texto;
 
 public:
 	//Getters & Setters
-	inline Camera& GetCamera() { return this->camera; } 
+	inline Camera& GetCamera() { return this->camera; }
+	inline void SetText(){}
 
 	virtual void Render() = 0;
 	virtual void Update() = 0;
